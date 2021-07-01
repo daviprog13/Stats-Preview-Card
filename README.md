@@ -1,2 +1,2 @@
 # Stats-Preview-Card
- Primeiro repositório versionado
+ Cartão de demonstração  do meu primeiro repositório
