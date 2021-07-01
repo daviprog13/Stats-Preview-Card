@@ -1,0 +1,11 @@
+@import 'geral.css';
+:root {
+    --main-background: #090B1A;
+    --card-background: #1B1938;
+    --violet-accent: #AA5CDB;
+    --heading-stats: #ffff;
+    --paragraph: #CACACA;
+    --stats-heading: #ABABAB;
+    --font-inter: 'Inter', sans-serif;
+    --font-lexend: 'Lexend Deca', sans-serif;
+}
